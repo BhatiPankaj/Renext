@@ -2,8 +2,10 @@
   "name": "Renext",
   "version": "0.0.0",
   "private": true,
+  "main": "app.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node server",
+    "server": "nodemon server"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
