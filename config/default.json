@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Pankaj:Bhati%4012@cluster0-ip7zx.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://Pankaj:Bhati%4012@cluster0-ip7zx.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecret"
 }
